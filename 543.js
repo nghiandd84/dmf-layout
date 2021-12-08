@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdmf_layout=self.webpackChunkdmf_layout||[]).push([[543],{543:(e,a,t)=>{t.r(a),t.d(a,{default:()=>s});var l=t(950),n=t.n(l),r=t(476);const s=function(e){var a=e.children,t=e.className,l=e.header,s=e.footer;return(0,r.tZ)(n().Fragment,null,l,(0,r.tZ)("div",{className:t},a),s)}}}]);
