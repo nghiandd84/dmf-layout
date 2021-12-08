@@ -9,6 +9,7 @@
       "experimentalDecorators": true
     },
   
-    "include": ["./src/**/*", "./dmf-type"]
+    "include": ["./src/**/*", "./dmf-type"],
+    "exclude": ["./dmf-type/dmf_layout.d.ts"]
   }
   
