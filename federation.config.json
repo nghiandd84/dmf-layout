@@ -1,5 +1,9 @@
 {
   "name": "dmf_layout",
   "exposes": {
+    "./Footer": "./src/components/Footer/Footer",
+    "./Header": "./src/components/Header/Header",
+    "./layout/AuthLayout": "./src/components/layout/AuthLayout/AuthLayout",
+    "./layout/NotAuthLayout": "./src/components/layout/NotAuthLayout/NotAuthLayout"
   }
 }
